@@ -27,7 +27,7 @@ Video Walkthrough
 
 Here’s a walkthrough of implemented features:
 
-<img src="https://loom.com/share/p1el3f7" width=250><br>
+<img src="https://drive.google.com/file/d/1IYDyEaSy7gzcwHZaexAGXwzC-AdRI0pw/view?usp=sharing" width=250><br>
 
 Notes
 
