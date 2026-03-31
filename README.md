@@ -5,7 +5,7 @@ Submitted by: Heidy Veliz
 
 TranslateMe is a translation app that allows users to enter a word, phrase, or sentence and translate it from English to Spanish using the MyMemory API. The app also keeps a history of translations and allows users to clear that history.
 
-Time spent: X hours spent in total
+Time spent: 7 hours spent in total
 
 Required Features
 
@@ -27,6 +27,7 @@ Video Walkthrough
 
 Here’s a walkthrough of implemented features:
 
+<img src="https://submissions.us-east-1.linodeobjects.com/ios102_swiftUI/1twx0wmr.gif" width=250><br>
 
 Notes
 
