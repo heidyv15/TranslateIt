@@ -27,7 +27,7 @@ Video Walkthrough
 
 Here’s a walkthrough of implemented features:
 
-<img src="https://github.com/user-attachments/assets/b3c09c6a-81cf-4811-9ba1-65ccfbfa715b" width=250><br>
+https://github.com/user-attachments/assets/b3c09c6a-81cf-4811-9ba1-65ccfbfa715b
 
 Notes
 
