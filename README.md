@@ -27,7 +27,7 @@ Video Walkthrough
 
 Here’s a walkthrough of implemented features:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios102_swiftUI/1twx0wmr.gif" width=250><br>
+<img src="https://loom.com/share/p1el3f7" width=250><br>
 
 Notes
 
